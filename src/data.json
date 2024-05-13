@@ -1,0 +1,17 @@
+{
+    "easy": [
+        {"word": "cachorro", "tip": "Animal de estimação"},
+        {"word": "gato", "tip": "Animal de estimação"},
+        {"word": "mesa", "tip": "Móvel"}
+    ],
+    "medium": [
+        {"word": "computador", "tip": "Eletrônico"},
+        {"word": "celular", "tip": "Eletrônico"},
+        {"word": "livro", "tip": "Objeto de leitura"}
+    ],
+    "hard": [
+        {"word": "paralelepipedo", "tip": "Forma geométrica"},
+        {"word": "hipopotamo", "tip": "Animal selvagem"},
+        {"word": "supercalifragilisticexpialidocious", "tip": "Palavra longa"}
+    ]
+}
